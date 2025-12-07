@@ -1,4 +1,4 @@
-The dashboard visualizes key metrics from the dataset, including:
+The dashboard visualises key metrics from the dataset, including:
 
 1. Average Tip by Day
 
